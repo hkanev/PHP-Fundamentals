@@ -20,10 +20,165 @@
     <favorites_list name="PHP-Fundamentals" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="01.PersonalInfo.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/01.Installation, Configuration and Basic Syntax/Homework/01.PersonalInfo.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="67" selection-start-line="5" selection-start-column="67" selection-end-line="5" selection-end-column="67" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="09.AwesomeCalendar.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/01.Installation, Configuration and Basic Syntax/Homework/09.AwesomeCalendar.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="69" column="0" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
+              <folding>
+                <element signature="n#style#0;n#head#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#printMonthCalendar#0;n#!!top" expanded="false" />
+                <element signature="n#checkDay#0;n#!!top" expanded="false" />
+                <element signature="n#nameMonth#0;n#!!top" expanded="false" />
+                <marker date="1485330565800" expanded="true" signature="1751:2094" ph="..." />
+                <marker date="1485330565800" expanded="true" signature="1763:1786" ph="..." />
+                <marker date="1485330565800" expanded="true" signature="1763:2094" ph="..." />
+                <marker date="1485330565800" expanded="true" signature="1779:1786" ph="..." />
+                <marker date="1485330565800" expanded="true" signature="1845:2059" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="02. Sum Two Numbers.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/01.Installation, Configuration and Basic Syntax/Homework/02. Sum Two Numbers.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="07.FormData.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/01.Installation, Configuration and Basic Syntax/Homework/07.FormData.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="05.LazySundays.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/01.Installation, Configuration and Basic Syntax/Homework/05.LazySundays.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="06.HTML Table.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/01.Installation, Configuration and Basic Syntax/Homework/06.HTML Table.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="5" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+              <folding>
+                <marker date="1485332278954" expanded="true" signature="113:164" ph="..." />
+                <marker date="1485332278954" expanded="true" signature="179:402" ph="..." />
+                <marker date="1485332278954" expanded="true" signature="204:268" ph="..." />
+                <marker date="1485332278954" expanded="true" signature="320:377" ph="..." />
+                <marker date="1485332278954" expanded="true" signature="416:647" ph="..." />
+                <marker date="1485332278954" expanded="true" signature="441:505" ph="..." />
+                <marker date="1485332278954" expanded="true" signature="565:622" ph="..." />
+                <marker date="1485332278954" expanded="true" signature="661:882" ph="..." />
+                <marker date="1485332278954" expanded="true" signature="686:750" ph="..." />
+                <marker date="1485332278954" expanded="true" signature="801:858" ph="..." />
+                <marker date="1485332278954" expanded="true" signature="896:1125" ph="..." />
+                <marker date="1485332278954" expanded="true" signature="921:985" ph="..." />
+                <marker date="1485332278954" expanded="true" signature="1040:1097" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="07.FormData.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/01.Installation, Configuration and Basic Syntax/Homework/07.FormData.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="03.Dump Variable.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/01.Installation, Configuration and Basic Syntax/Homework/03.Dump Variable.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="5" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="04.Non-Repeating Digits.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/01.Installation, Configuration and Basic Syntax/Homework/04.Non-Repeating Digits.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="08.TimeUntilNewYear.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/01.Installation, Configuration and Basic Syntax/Homework/08.TimeUntilNewYear.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="57" selection-start-line="12" selection-start-column="57" selection-end-line="12" selection-end-column="57" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/01.Installation, Configuration and Basic Syntax/cli-test.php" />
+        <option value="$PROJECT_DIR$/01.Installation, Configuration and Basic Syntax/Homework/01.PersonalInfo.php" />
+        <option value="$PROJECT_DIR$/01.Installation, Configuration and Basic Syntax/Homework/02. Sum Two Numbers.php" />
+        <option value="$PROJECT_DIR$/01.Installation, Configuration and Basic Syntax/Homework/04.Non-Repeating Digits.php" />
+        <option value="$PROJECT_DIR$/01.Installation, Configuration and Basic Syntax/Homework/09.Awesome Calendar.html" />
+        <option value="$PROJECT_DIR$/01.Installation, Configuration and Basic Syntax/Homework/09.AuthorCalendarTEST.php" />
+        <option value="$PROJECT_DIR$/01.Installation, Configuration and Basic Syntax/Homework/09.AwesomeCalendarAuthor.php" />
+        <option value="$PROJECT_DIR$/01.Installation, Configuration and Basic Syntax/Homework/styles.css" />
+        <option value="$PROJECT_DIR$/01.Installation, Configuration and Basic Syntax/Homework/09.AuthorCalendar.php" />
+        <option value="$PROJECT_DIR$/01.Installation, Configuration and Basic Syntax/Homework/asd.php" />
+        <option value="$PROJECT_DIR$/01.Installation, Configuration and Basic Syntax/Homework/05.LazySundays.php" />
+        <option value="$PROJECT_DIR$/01.Installation, Configuration and Basic Syntax/Homework/09.AwesomeCalendar.php" />
+        <option value="$PROJECT_DIR$/01.Installation, Configuration and Basic Syntax/Homework/08.TimeUntilNewYear.php" />
+        <option value="$PROJECT_DIR$/01.Installation, Configuration and Basic Syntax/Homework/07.FormData.php" />
+        <option value="$PROJECT_DIR$/01.Installation, Configuration and Basic Syntax/Homework/07.FormData.html" />
+        <option value="$PROJECT_DIR$/01.Installation, Configuration and Basic Syntax/Homework/03.Dump Variable.php" />
+        <option value="$PROJECT_DIR$/01.Installation, Configuration and Basic Syntax/Homework/06.HTML Table.php" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -31,7 +186,10 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP" />
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
@@ -81,6 +239,20 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PHP-Fundamentals" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PHP-Fundamentals" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="01.Installation, Configuration and Basic Syntax" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -93,6 +265,12 @@
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\PHP\PHP-Fundamentals\01.Installation, Configuration and Basic Syntax\Homework" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
@@ -113,6 +291,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -139,6 +323,9 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="21115fe4-15d7-486b-bad4-f1ff38597815" name="Default" comment="" />
@@ -146,25 +333,33 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1485184837367</updated>
-      <workItem from="1485184839360" duration="1036000" />
+      <workItem from="1485184839360" duration="2495000" />
+      <workItem from="1485187891501" duration="55000" />
+      <workItem from="1485197190991" duration="3042000" />
+      <workItem from="1485264002572" duration="395000" />
+      <workItem from="1485277506725" duration="13573000" />
+      <workItem from="1485293996885" duration="292000" />
+      <workItem from="1485294871903" duration="2645000" />
+      <workItem from="1485328260580" duration="3849000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1036000" />
+    <option name="totallyTimeSpent" value="26346000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32969153" sideWeight="0.5" order="-1" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3611825" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -180,12 +375,19 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/01.Installation, Configuration and Basic Syntax/Homework/05.LazySundays.php</url>
+          <line>15</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="2" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Installation, Configuration and Basic Syntax/Resources/00.7.PHP-Fundamentals-Syntax-Demos/02. Operators.php">
+    <entry file="file://$PROJECT_DIR$/01.Installation, Configuration and Basic Syntax/Homework/07.FormData.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -193,7 +395,65 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Installation, Configuration and Basic Syntax/Resources/00.7.PHP-Fundamentals-Syntax-Demos/03. SwitchCase.php">
+    <entry file="file://$PROJECT_DIR$/01.Installation, Configuration and Basic Syntax/Homework/08.TimeUntilNewYear.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01.Installation, Configuration and Basic Syntax/Homework/03.Dump Variable.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01.Installation, Configuration and Basic Syntax/Homework/04.Non-Repeating Digits.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="15" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01.Installation, Configuration and Basic Syntax/Homework/01.PersonalInfo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="67" selection-start-line="5" selection-start-column="67" selection-end-line="5" selection-end-column="67" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01.Installation, Configuration and Basic Syntax/Homework/09.AwesomeCalendar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#head#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#printMonthCalendar#0;n#!!top" expanded="false" />
+            <element signature="n#checkDay#0;n#!!top" expanded="false" />
+            <element signature="n#nameMonth#0;n#!!top" expanded="false" />
+            <marker date="1485330565800" expanded="true" signature="1751:2094" ph="..." />
+            <marker date="1485330565800" expanded="true" signature="1763:1786" ph="..." />
+            <marker date="1485330565800" expanded="true" signature="1763:2094" ph="..." />
+            <marker date="1485330565800" expanded="true" signature="1779:1786" ph="..." />
+            <marker date="1485330565800" expanded="true" signature="1845:2059" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01.Installation, Configuration and Basic Syntax/Homework/02. Sum Two Numbers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01.Installation, Configuration and Basic Syntax/Homework/05.LazySundays.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -201,7 +461,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Installation, Configuration and Basic Syntax/Resources/00.7.PHP-Fundamentals-Syntax-Demos/04. TakePostRequest.php">
+    <entry file="file://$PROJECT_DIR$/01.Installation, Configuration and Basic Syntax/Homework/06.HTML Table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="17" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
+          <folding>
+            <marker date="1485332278954" expanded="true" signature="113:164" ph="..." />
+            <marker date="1485332278954" expanded="true" signature="179:402" ph="..." />
+            <marker date="1485332278954" expanded="true" signature="204:268" ph="..." />
+            <marker date="1485332278954" expanded="true" signature="320:377" ph="..." />
+            <marker date="1485332278954" expanded="true" signature="416:647" ph="..." />
+            <marker date="1485332278954" expanded="true" signature="441:505" ph="..." />
+            <marker date="1485332278954" expanded="true" signature="565:622" ph="..." />
+            <marker date="1485332278954" expanded="true" signature="661:882" ph="..." />
+            <marker date="1485332278954" expanded="true" signature="686:750" ph="..." />
+            <marker date="1485332278954" expanded="true" signature="801:858" ph="..." />
+            <marker date="1485332278954" expanded="true" signature="896:1125" ph="..." />
+            <marker date="1485332278954" expanded="true" signature="921:985" ph="..." />
+            <marker date="1485332278954" expanded="true" signature="1040:1097" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01.Installation, Configuration and Basic Syntax/Homework/07.FormData.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -209,11 +491,306 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Installation, Configuration and Basic Syntax/Resources/00.7.PHP-Fundamentals-Syntax-Demos/01. Variables.php">
+    <entry file="file://$PROJECT_DIR$/01.Installation, Configuration and Basic Syntax/Homework/08.TimeUntilNewYear.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        <state relative-caret-position="17">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01.Installation, Configuration and Basic Syntax/Homework/03.Dump Variable.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01.Installation, Configuration and Basic Syntax/Homework/04.Non-Repeating Digits.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="15" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01.Installation, Configuration and Basic Syntax/Homework/01.PersonalInfo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="67" selection-start-line="5" selection-start-column="67" selection-end-line="5" selection-end-column="67" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01.Installation, Configuration and Basic Syntax/Homework/02. Sum Two Numbers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01.Installation, Configuration and Basic Syntax/Homework/03.Dump Variable.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01.Installation, Configuration and Basic Syntax/Homework/04.Non-Repeating Digits.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="15" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01.Installation, Configuration and Basic Syntax/Homework/05.LazySundays.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01.Installation, Configuration and Basic Syntax/Homework/06.HTML Table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="17" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
+          <folding>
+            <marker date="1485332278954" expanded="true" signature="113:164" ph="..." />
+            <marker date="1485332278954" expanded="true" signature="179:402" ph="..." />
+            <marker date="1485332278954" expanded="true" signature="204:268" ph="..." />
+            <marker date="1485332278954" expanded="true" signature="320:377" ph="..." />
+            <marker date="1485332278954" expanded="true" signature="416:647" ph="..." />
+            <marker date="1485332278954" expanded="true" signature="441:505" ph="..." />
+            <marker date="1485332278954" expanded="true" signature="565:622" ph="..." />
+            <marker date="1485332278954" expanded="true" signature="661:882" ph="..." />
+            <marker date="1485332278954" expanded="true" signature="686:750" ph="..." />
+            <marker date="1485332278954" expanded="true" signature="801:858" ph="..." />
+            <marker date="1485332278954" expanded="true" signature="896:1125" ph="..." />
+            <marker date="1485332278954" expanded="true" signature="921:985" ph="..." />
+            <marker date="1485332278954" expanded="true" signature="1040:1097" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01.Installation, Configuration and Basic Syntax/Homework/07.FormData.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01.Installation, Configuration and Basic Syntax/Homework/08.TimeUntilNewYear.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="38" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01.Installation, Configuration and Basic Syntax/Homework/09.Awesome Calendar.html" />
+    <entry file="file://$PROJECT_DIR$/01.Installation, Configuration and Basic Syntax/Homework/01.PersonalInfo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="67" selection-start-line="5" selection-start-column="67" selection-end-line="5" selection-end-column="67" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01.Installation, Configuration and Basic Syntax/Homework/02. Sum Two Numbers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01.Installation, Configuration and Basic Syntax/Homework/03.Dump Variable.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01.Installation, Configuration and Basic Syntax/Homework/04.Non-Repeating Digits.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="15" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01.Installation, Configuration and Basic Syntax/Homework/05.LazySundays.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01.Installation, Configuration and Basic Syntax/Homework/06.HTML Table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="17" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
+          <folding>
+            <marker date="1485332278954" expanded="true" signature="113:164" ph="..." />
+            <marker date="1485332278954" expanded="true" signature="179:402" ph="..." />
+            <marker date="1485332278954" expanded="true" signature="204:268" ph="..." />
+            <marker date="1485332278954" expanded="true" signature="320:377" ph="..." />
+            <marker date="1485332278954" expanded="true" signature="416:647" ph="..." />
+            <marker date="1485332278954" expanded="true" signature="441:505" ph="..." />
+            <marker date="1485332278954" expanded="true" signature="565:622" ph="..." />
+            <marker date="1485332278954" expanded="true" signature="661:882" ph="..." />
+            <marker date="1485332278954" expanded="true" signature="686:750" ph="..." />
+            <marker date="1485332278954" expanded="true" signature="801:858" ph="..." />
+            <marker date="1485332278954" expanded="true" signature="896:1125" ph="..." />
+            <marker date="1485332278954" expanded="true" signature="921:985" ph="..." />
+            <marker date="1485332278954" expanded="true" signature="1040:1097" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01.Installation, Configuration and Basic Syntax/Homework/07.FormData.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01.Installation, Configuration and Basic Syntax/Homework/08.TimeUntilNewYear.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Installation, Configuration and Basic Syntax/Resources/00.7.PHP-Fundamentals-Syntax-Demos/02. Operators.php" />
+    <entry file="file://$PROJECT_DIR$/Installation, Configuration and Basic Syntax/Resources/00.7.PHP-Fundamentals-Syntax-Demos/03. SwitchCase.php" />
+    <entry file="file://$PROJECT_DIR$/Installation, Configuration and Basic Syntax/Resources/00.7.PHP-Fundamentals-Syntax-Demos/04. TakePostRequest.php" />
+    <entry file="file://$PROJECT_DIR$/Installation, Configuration and Basic Syntax/Resources/00.7.PHP-Fundamentals-Syntax-Demos/01. Variables.php" />
+    <entry file="file://$PROJECT_DIR$/01.Installation, Configuration and Basic Syntax/cli-test.php" />
+    <entry file="file://$PROJECT_DIR$/01.Installation, Configuration and Basic Syntax/Homework/09.Awesome Calendar.html" />
+    <entry file="file://$PROJECT_DIR$/01.Installation, Configuration and Basic Syntax/Homework/09.AuthorCalendarTEST.php" />
+    <entry file="file://$PROJECT_DIR$/01.Installation, Configuration and Basic Syntax/Homework/styles.css" />
+    <entry file="file://$PROJECT_DIR$/01.Installation, Configuration and Basic Syntax/Homework/09.AwesomeCalendarAuthor.php" />
+    <entry file="file://$PROJECT_DIR$/01.Installation, Configuration and Basic Syntax/Homework/asd.php" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/date.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="291" column="9" selection-start-line="291" selection-start-column="9" selection-end-line="291" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01.Installation, Configuration and Basic Syntax/Homework/01.PersonalInfo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="67" selection-start-line="5" selection-start-column="67" selection-end-line="5" selection-end-column="67" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01.Installation, Configuration and Basic Syntax/Homework/02. Sum Two Numbers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01.Installation, Configuration and Basic Syntax/Homework/03.Dump Variable.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="5" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01.Installation, Configuration and Basic Syntax/Homework/04.Non-Repeating Digits.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01.Installation, Configuration and Basic Syntax/Homework/05.LazySundays.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01.Installation, Configuration and Basic Syntax/Homework/06.HTML Table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="5" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+          <folding>
+            <marker date="1485332278954" expanded="true" signature="113:164" ph="..." />
+            <marker date="1485332278954" expanded="true" signature="179:402" ph="..." />
+            <marker date="1485332278954" expanded="true" signature="204:268" ph="..." />
+            <marker date="1485332278954" expanded="true" signature="320:377" ph="..." />
+            <marker date="1485332278954" expanded="true" signature="416:647" ph="..." />
+            <marker date="1485332278954" expanded="true" signature="441:505" ph="..." />
+            <marker date="1485332278954" expanded="true" signature="565:622" ph="..." />
+            <marker date="1485332278954" expanded="true" signature="661:882" ph="..." />
+            <marker date="1485332278954" expanded="true" signature="686:750" ph="..." />
+            <marker date="1485332278954" expanded="true" signature="801:858" ph="..." />
+            <marker date="1485332278954" expanded="true" signature="896:1125" ph="..." />
+            <marker date="1485332278954" expanded="true" signature="921:985" ph="..." />
+            <marker date="1485332278954" expanded="true" signature="1040:1097" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01.Installation, Configuration and Basic Syntax/Homework/07.FormData.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01.Installation, Configuration and Basic Syntax/Homework/07.FormData.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01.Installation, Configuration and Basic Syntax/Homework/08.TimeUntilNewYear.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="57" selection-start-line="12" selection-start-column="57" selection-end-line="12" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01.Installation, Configuration and Basic Syntax/Homework/09.AwesomeCalendar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="69" column="0" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#head#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#printMonthCalendar#0;n#!!top" expanded="false" />
+            <element signature="n#checkDay#0;n#!!top" expanded="false" />
+            <element signature="n#nameMonth#0;n#!!top" expanded="false" />
+            <marker date="1485330565800" expanded="true" signature="1751:2094" ph="..." />
+            <marker date="1485330565800" expanded="true" signature="1763:1786" ph="..." />
+            <marker date="1485330565800" expanded="true" signature="1763:2094" ph="..." />
+            <marker date="1485330565800" expanded="true" signature="1779:1786" ph="..." />
+            <marker date="1485330565800" expanded="true" signature="1845:2059" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
